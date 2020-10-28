@@ -10,7 +10,7 @@ Contact:
 -------> indicated the batch script submits the call script on a slurm job queue system on a HPC with conda environment manager.
 
 
-#BGC antiSMASh analysis:#
+#BGC antiSMASh analysis:
 	
 	antismash-batch.sh ------> antismash-call.sh (runs antismash)
 	Use the APP.py script for an all in one analysis (seperate scripts can be provided for each step).
@@ -18,7 +18,7 @@ Contact:
 	stats analysis:
 		
 
-#Hotpepe CAZYme analysis:#
+#Hotpepe CAZYme analysis:
 	
 	Hotpep was run locally on a windows machine
 	Use the following scripts in the order given
@@ -30,7 +30,7 @@ Contact:
 	stats analysis:
 		hotpep_stats_analysis.R
 
-#MLST phylogenetic analysis:#
+#MLST phylogenetic analysis:
 	
 	Use the following scrips in the order given:
 		busco-bash.sh ------> busco-call.sh (isolates genes to use for MLST)
