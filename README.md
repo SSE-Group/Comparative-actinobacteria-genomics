@@ -12,7 +12,7 @@ Contact:
 
 ## BGC antiSMASh analysis:
 	
-	antismash-batch.sh ------> antismash-call.sh (runs antismash)
+	`antismash-batch.sh` ------> antismash-call.sh (runs antismash)
 	Use the APP.py script for an all in one analysis (seperate scripts can be provided for each step).
 
 	stats analysis:
