@@ -16,7 +16,7 @@ Contact:
 	Use the APP.py script for an all in one analysis (seperate scripts can be provided for each step).
 
 	stats analysis:
-		
+		antismash_stats_analysis.R
 
 ## Hotpepe CAZYme analysis:
 	
